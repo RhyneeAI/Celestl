@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3985206c-8bc5-44d6-920d-3e51d022f2d2"
+      }
+    },
+    "owner": "rhyneeai"
   }
 }
